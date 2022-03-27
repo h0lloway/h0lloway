@@ -19,8 +19,9 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  
-  ### :man_technologist: About Me :
+</div>
+
+### :man_technologist: About Me :
   I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
   
   - :telescope: bla-bla-bla
@@ -50,5 +51,3 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=h0lloway&theme=dark&background=000000)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h0lloway&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
