@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   
-<img src="https://komarev.com/ghpvc/?username=h0lloway&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=h0lloway&style=flat-square&color=blue" style="display: block" alt=""/>
 
 <h1>
   hey there
