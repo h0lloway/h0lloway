@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="telegram Badge"/>
+  <a href="https://t.me/makdu1">
+    <img src="https://img.shields.io/badge/Telegram-%20-lightgrey?logo=telegram&logoColor=white&style=for-the-badge" alt="telegramBadge"/>
   </a>
   </div>
   <div>
