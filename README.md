@@ -22,9 +22,8 @@
 
 
 <div align="center">
-<!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
-![GitHub Snake Light](https://raw.githubusercontent.com/GrapeoffJS/GrapeoffJS/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://raw.githubusercontent.com/GrapeoffJS/GrapeoffJS/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
 </div>
 
 ### :man_technologist: About Me :
