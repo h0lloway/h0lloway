@@ -23,7 +23,8 @@
 
 <div align="center">
 <!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
-   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" width="100"/>
+![GitHub Snake Light](https://raw.githubusercontent.com/GrapeoffJS/GrapeoffJS/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/GrapeoffJS/GrapeoffJS/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 </div>
 
 ### :man_technologist: About Me :
