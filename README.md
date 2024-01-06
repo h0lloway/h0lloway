@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" width="100"/>
+
   
   <div id="badges">
   <a href="https://t.me/makdu1" target="_blank">
